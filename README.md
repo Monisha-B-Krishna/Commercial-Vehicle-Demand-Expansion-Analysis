@@ -17,6 +17,23 @@ Road Transport Year Book (2020–21 & 2021–22)
 
 ---
 
+## Domain Understanding (Indian Road Transport Sector)
+
+An overview of the Indian road transport ecosystem was studied using the Road Transport Year Book (2020–21 & 2021–22) to understand the structural drivers of commercial vehicle demand.
+
+### Key Sector Insights:
+
+- Road transport is the primary mode of freight and passenger movement in India, supporting trade, logistics, and industrial supply chains.
+- Commercial vehicles (goods carriers, transport buses, and logistics vehicles) are closely linked to economic activity and infrastructure growth.
+- State-wise variations in vehicle registrations reflect regional economic strength, industrial concentration, and logistics demand.
+- Growth in commercial vehicle registrations often indicates expansion in construction, manufacturing, e-commerce, and rural connectivity.
+- Government infrastructure initiatives and highway development programs directly influence transport demand.
+- Economic shocks (e.g., pandemic recovery periods) can significantly impact year-on-year registration trends.
+
+Understanding these structural factors provides context for interpreting registration data and identifying high-potential markets for dealership expansion.
+
+---
+
 ## Business Questions
 - Which states show the highest commercial vehicle growth?
 - What are the year-on-year demand trends?
